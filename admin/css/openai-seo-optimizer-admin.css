@@ -1,0 +1,32 @@
+.openai-seo-meta-box .seo-preview {
+    font-family: Arial, sans-serif;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+    margin-top: 10px;
+}
+
+.openai-seo-meta-box .seo-preview p {
+    margin: 0;
+    padding: 0;
+}
+
+.openai-seo-meta-box .seo-preview p:nth-child(1) {
+    font-weight: bold;
+    color: #1a0dab;
+    font-size: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.openai-seo-meta-box .seo-preview p:nth-child(2) {
+    color: #006621;
+}
+
+.openai-seo-meta-box .seo-preview p:nth-child(3) {
+    color: #545454;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
